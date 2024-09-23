@@ -10,6 +10,8 @@ The New York Times has a game called "Connections," where you sort 16 words into
 
 I have created a Connections-esque puzzle with four natural class categories each containing exactly four of the 16 sounds. It's quite hard, but you get as many guesses as you need.
 
+A helpful chart of the natural classes can be found in [the textbook](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/chapter/4-5-natural-classes/).
+
 ## [Click here to play the game!](https://connections.swellgarfo.com/game/-O7LX_gebQ5dxxvs_hZQ)
 
 ### Hints (Optional)
@@ -17,7 +19,7 @@ I have created a Connections-esque puzzle with four natural class categories eac
 <details>
   <summary>Click here for hint No. 1</summary>
   
-  Hello there!
+  What's it called when a sound doesn't use your vocal chords?
   
 </details>
 
@@ -26,7 +28,7 @@ ___
 <details>
   <summary>Click here for hint No. 2</summary>
   
-  Hello there!
+  What's it called when a sound can make a syllable by itself?
   
 </details>
 
@@ -35,7 +37,7 @@ ___
 <details>
   <summary>Click here for hint No. 3</summary>
   
-  Hello there!
+  What's it called when you use the body of the tongue to make a sound?
   
 </details>
 
