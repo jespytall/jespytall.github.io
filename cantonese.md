@@ -17,7 +17,6 @@ My adopted language is Cantonese. Cantonese is a dialect of the Yue branch of Si
 * [Vowel Sounds Comparison](#vowel-sounds-comparison)
 * [Recording Consonant Sounds](#recording-consonant-sounds)
 * [Recording Words](#recording-words)
-* [Links](#links)
 
 ## Geographic Distribution
 Cantonese is spoken in and around Southern China, namely in Guangzhou, Guangxi, Hong Kong, and Macau. There are significant Cantonese-speaking populations throughout Southeast Asia and in the United States, Canada, the United Kingdom, and Australia.
@@ -104,8 +103,6 @@ Cantonese has 11 vowels plus 11 diphthongs. Cantonese also assigns one of 6 or 9
 \[kʰɐi\]
 
 <audio id="audio" controls="" src="/cantonese_kai1.m4a"></audio>
-
-## Links
 
 
 
