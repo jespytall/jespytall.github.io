@@ -22,7 +22,7 @@ My adopted language is: [Cantonese](/panel2/cantonese)!
 
 
 ### Panel 3: Phonology
-* [Phone vs. Phoneme Infographic](/panel3/phone_phoneme)
+* [Phones vs. Phonemes](/panel3/phone_phoneme)
 * [Allophone Showcase](/panel3/allophones)
 * [Natural Classes Connections Puzzle](/panel3/natural_classes)
 * [Learning a Phonological Process with ChatGPT](/panel3/chatgpt)
