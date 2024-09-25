@@ -9,7 +9,7 @@ permalink: /
 
 
 ## Welcome to my Learning Celebration!
-This site contains all the supplementary info for my learning celebration poster. Have a look around!
+This site contains all the information for my learning celebration. Have a look around!
 
 
 ### Panel 1: Animal Communication & Perscriptive vs. Descriptive Grammar
