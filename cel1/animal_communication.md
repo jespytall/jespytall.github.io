@@ -8,7 +8,7 @@ permalink: /panel1/animal_communication
 # Animal Communication Analysis: White Rhinoceros
 
 
-![Two white rhinos at Nairobi National Park. Kenya, Feb 2018](/white_rhino.jpg "Two white rhinos at Nairobi National Park. Kenya, Feb 2018")
+![Two white rhinos at Nairobi National Park. Kenya, Feb 2018](/cel1/white_rhino.jpg "Two white rhinos at Nairobi National Park. Kenya, Feb 2018")
 Two white rhinos at Nairobi National Park. Kenya, Feb 2018
 
 ## Table of Contents:

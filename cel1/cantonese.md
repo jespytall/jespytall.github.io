@@ -33,7 +33,7 @@ A street interview In Hong Kong produced for language learners.
 A recent popular Cantonese song.
 
 ## Phonetic Inventory
-![Cantonese Phonetic Inventory](/cantonese_phonetic_inventory.png "Cantonese Phonetic Inventory")
+![Cantonese Phonetic Inventory](/cel1/cantonese_phonetic_inventory.png "Cantonese Phonetic Inventory")
 Image adapted from: [Zee, Eric. 1999. Chinese (Hong Kong Cantonese). In Handbook of the International Phonetic Association, 58-60. Cambridge: Cambridge University Press.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BE506B659CA1CCDC96570765FF35FD73/S0025100300006058a.pdf/chinese-hong-kong-cantonese.pdf)
 
 An interactive phonetic inventory can also be found on [Phoible](https://phoible.org/inventories/view/2309#tipa).
@@ -85,24 +85,24 @@ Cantonese has 11 vowels plus 11 diphthongs. Cantonese also assigns one of 6 or 9
 ## Recording Consonant Sounds
 \<kw\> \[kʷʰ\]
 
-<audio id="audio" controls="" src="/cantonese_kwh.m4a"></audio>
+<audio id="audio" controls="" src="/cel1/cantonese_kwh.m4a"></audio>
 
 \<c\> \[t͡sʰ\]
 
-<audio id="audio" controls="" src="/cantonese_tsh.m4a"></audio>
+<audio id="audio" controls="" src="/cel1/cantonese_tsh.m4a"></audio>
 
 ## Recording Words
 \<caang2\> meaning "orange"
 
 \[t͡sʰ\]
 
-<audio id="audio" controls="" src="/cantonese_caang2.m4a"></audio>
+<audio id="audio" controls="" src="/cel1/cantonese_caang2.m4a"></audio>
 
 \<kai1\> meaning "stream"
 
 \[kʰɐi\]
 
-<audio id="audio" controls="" src="/cantonese_kai1.m4a"></audio>
+<audio id="audio" controls="" src="/cel1/cantonese_kai1.m4a"></audio>
 
 
 
