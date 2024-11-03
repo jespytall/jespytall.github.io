@@ -32,7 +32,7 @@ This sentence can very easily be broken up into its consituent words. Words in c
   * Meaning: Cantonese (the Cantonese language)
   * Note: this is a compound word from the two words 粵 "Guangdong" and 語 "dialect/language."
 
-If we simply translate every word directly into English without changing the word order, we get "I (am) not able (to) speak Guangdong-language."
+If we simply translate every word directly into English without changing the word order, we get "I (am) not able (to) speak Cantonese (i.e. Guangdong-language)."
 
 ### 我唔識過講粵語。 (Ngo5 m4 sik1 gwo3 gong2 jyut6 jyu5.)
 "I could not speak Cantonese."
@@ -70,5 +70,5 @@ Cantonese does not use gendered pronouns, so 佢 could mean he, she, or singular
   * Part of Speech: Noun
   * Meaning: Cup
 
-If we again translate the words directly, we get the following: "She give \[past\] them (plural) two cup."
+If we again translate the words directly, we get the following: "She give \[past\] them \[plural\] two cup."
 
