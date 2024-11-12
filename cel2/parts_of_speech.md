@@ -21,7 +21,7 @@ We will use the words in the following sentence as examples:
 * quickly
   * Part of Speech: Adverb (open)
 * over
-  * Part of Speech: Preposition (open)
+  * Part of Speech: Preposition (closed)
 * the
   * Part of Speech: Determiner (closed)
 * two

@@ -12,4 +12,4 @@ On this page, I have made some morphological trees for the words "reimbursements
 ![Morphological tree for the word "reimbursement"](/cel2/reimbursement.svg "Morphological tree for the word "reimbursement"")
 
 ## Unknowingly
-![Morphological tree for the word "unknowingly"](/cel2/Unknowingly.svg "Morphological tree for the word "unknowingly"")
+![Morphological tree for the word "unknowingly"](/cel2/unknowingly.svg "Morphological tree for the word "unknowingly"")

@@ -28,7 +28,7 @@ Another, more humorous interpretation, is I shot an elephant who was somehow wea
 
 Additionally, we can change the interpretation further by using the definition of "shoot" as "to take a picture of" rather than "to fire a gun at." This is a different kind of ambiguity called [lexical ambiguity](/cel2/panel3/ambiguity).
 
-![Alternate tree diagram for "I shot an elephant in my pajamas."](/cel2/elephant_1.svg "Alternate tree diagram for "I shot an elephant in my pajamas."")
+![Alternate tree diagram for "I shot an elephant in my pajamas."](/cel2/elephant_2.svg "Alternate tree diagram for "I shot an elephant in my pajamas."")
 
 
 
