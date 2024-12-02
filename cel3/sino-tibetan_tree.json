@@ -1,0 +1,4503 @@
+{
+	"name": "Sino-Tibetan",
+	"link": "/subgroup/236/",
+	"children_count": 458,
+	"languages": [],
+	"subgroups": [
+		{
+			"name": "Chinese",
+			"link": "/subgroup/837/",
+			"children_count": 17,
+			"languages": [
+				{
+					"name": "Chinese, Min Dong",
+					"link": "/language/cdo/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Jinyu",
+					"link": "/language/cjy/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Mandarin",
+					"link": "/language/cmn/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Pinghua, Northern",
+					"link": "/language/cnp/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Pu-Xian",
+					"link": "/language/cpx/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Pinghua, Southern",
+					"link": "/language/csp/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Huizhou",
+					"link": "/language/czh/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Min Zhong",
+					"link": "/language/czo/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Dungan",
+					"link": "/language/dng/",
+					"country": {
+						"name": "Kyrgyzstan",
+						"link": "/country/KG"
+					}
+				},
+				{
+					"name": "Chinese, Gan",
+					"link": "/language/gan/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Hakka",
+					"link": "/language/hak/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Xiang",
+					"link": "/language/hsn/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Classical",
+					"link": "/language/lzh/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Min Bei",
+					"link": "/language/mnp/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Min Nan",
+					"link": "/language/nan/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Wu",
+					"link": "/language/wuu/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				},
+				{
+					"name": "Chinese, Yue",
+					"link": "/language/yue/",
+					"country": {
+						"name": "China",
+						"link": "/country/CN"
+					}
+				}
+			],
+			"subgroups": []
+		},
+		{
+			"name": "Tibeto-Burman",
+			"link": "/subgroup/237/",
+			"children_count": 441,
+			"languages": [
+				{
+					"name": "Meitei",
+					"link": "/language/mni/",
+					"country": {
+						"name": "India",
+						"link": "/country/IN"
+					}
+				}
+			],
+			"subgroups": [
+				{
+					"name": "Angami-Pochuri",
+					"link": "/subgroup/4072/",
+					"children_count": 9,
+					"languages": [
+						{
+							"name": "Naga, Mao",
+							"link": "/language/nbi/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Angami",
+							"link": "/language/njm/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Khezha",
+							"link": "/language/nkh/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Northern Rengma",
+							"link": "/language/nnl/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Pochuri",
+							"link": "/language/npo/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Southern Rengma",
+							"link": "/language/nre/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Chokri",
+							"link": "/language/nri/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Sumi",
+							"link": "/language/nsm/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Poumai",
+							"link": "/language/pmx/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						}
+					],
+					"subgroups": []
+				},
+				{
+					"name": "Central Naga",
+					"link": "/subgroup/4073/",
+					"children_count": 4,
+					"languages": [
+						{
+							"name": "Naga, Lotha",
+							"link": "/language/njh/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Ao",
+							"link": "/language/njo/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Sangtam",
+							"link": "/language/nsa/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Yimchungru",
+							"link": "/language/yim/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						}
+					],
+					"subgroups": []
+				},
+				{
+					"name": "Central Tibeto-Burman",
+					"link": "/subgroup/4025/",
+					"children_count": 23,
+					"languages": [],
+					"subgroups": [
+						{
+							"name": "Digarish",
+							"link": "/subgroup/4026/",
+							"children_count": 2,
+							"languages": [
+								{
+									"name": "Idu-Mishmi",
+									"link": "/language/clk/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Digaro-Mishmi",
+									"link": "/language/mhu/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Hrusish",
+							"link": "/subgroup/4027/",
+							"children_count": 2,
+							"languages": [
+								{
+									"name": "Hruso",
+									"link": "/language/hru/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Miji",
+									"link": "/language/sjl/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Keman",
+							"link": "/subgroup/4028/",
+							"children_count": 1,
+							"languages": [
+								{
+									"name": "Zakhring",
+									"link": "/language/zkr/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Kho-Bwa",
+							"link": "/subgroup/4029/",
+							"children_count": 6,
+							"languages": [
+								{
+									"name": "Bugun",
+									"link": "/language/bgg/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Chug",
+									"link": "/language/cvg/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Lish",
+									"link": "/language/lsh/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Sartang",
+									"link": "/language/onp/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Sherdukpen",
+									"link": "/language/sdp/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Puroik",
+									"link": "/language/suv/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Lepcha",
+							"link": "/subgroup/4030/",
+							"children_count": 1,
+							"languages": [
+								{
+									"name": "Lepcha",
+									"link": "/language/lep/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Mijish",
+							"link": "/subgroup/4031/",
+							"children_count": 1,
+							"languages": [
+								{
+									"name": "Miju-Mishmi",
+									"link": "/language/mxj/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Nungish",
+							"link": "/subgroup/4032/",
+							"children_count": 3,
+							"languages": [
+								{
+									"name": "Drung",
+									"link": "/language/duu/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Anong",
+									"link": "/language/nun/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Rawang",
+									"link": "/language/raw/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Tani",
+							"link": "/subgroup/4033/",
+							"children_count": 7,
+							"languages": [
+								{
+									"name": "Adi",
+									"link": "/language/adi/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Adi, Galo",
+									"link": "/language/adl/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Apatani",
+									"link": "/language/apt/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Mising",
+									"link": "/language/mrg/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Na",
+									"link": "/language/nbt/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Nyishi",
+									"link": "/language/njz/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Tagin",
+									"link": "/language/tgj/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						}
+					]
+				},
+				{
+					"name": "Karbi",
+					"link": "/subgroup/4074/",
+					"children_count": 2,
+					"languages": [
+						{
+							"name": "Amri Karbi",
+							"link": "/language/ajz/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Karbi",
+							"link": "/language/mjw/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						}
+					],
+					"subgroups": []
+				},
+				{
+					"name": "Karenic",
+					"link": "/subgroup/4034/",
+					"children_count": 21,
+					"languages": [],
+					"subgroups": [
+						{
+							"name": "Central",
+							"link": "/subgroup/4035/",
+							"children_count": 7,
+							"languages": [
+								{
+									"name": "Karen, Bwe",
+									"link": "/language/bwe/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Kayah, Eastern",
+									"link": "/language/eky/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, Geko",
+									"link": "/language/ghk/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Kayaw",
+									"link": "/language/kvl/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, Geba",
+									"link": "/language/kvq/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Kawyaw",
+									"link": "/language/kxf/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Kayah, Western",
+									"link": "/language/kyu/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Northern",
+							"link": "/subgroup/4036/",
+							"children_count": 5,
+							"languages": [
+								{
+									"name": "Lahta",
+									"link": "/language/kvt/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Yinbaw",
+									"link": "/language/kvu/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Yintale",
+									"link": "/language/kvy/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Zayein",
+									"link": "/language/kxk/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Kayan",
+									"link": "/language/pdu/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Peripheral",
+							"link": "/subgroup/4037/",
+							"children_count": 5,
+							"languages": [
+								{
+									"name": "Pa\u2019o",
+									"link": "/language/blk/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, Pwo Eastern",
+									"link": "/language/kjp/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, Phrae Pwo",
+									"link": "/language/kjt/",
+									"country": {
+										"name": "Thailand",
+										"link": "/country/TH"
+									}
+								},
+								{
+									"name": "Karen, Pwo Western",
+									"link": "/language/pwo/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, Pwo Northern",
+									"link": "/language/pww/",
+									"country": {
+										"name": "Thailand",
+										"link": "/country/TH"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Southern",
+							"link": "/subgroup/4038/",
+							"children_count": 4,
+							"languages": [
+								{
+									"name": "Karen, Mobwa",
+									"link": "/language/jkm/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, Paku",
+									"link": "/language/jkp/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Karen, S\u2019gaw",
+									"link": "/language/ksw/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Wewaw",
+									"link": "/language/wea/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								}
+							],
+							"subgroups": []
+						}
+					]
+				},
+				{
+					"name": "Kuki-Chin",
+					"link": "/subgroup/4075/",
+					"children_count": 54,
+					"languages": [
+						{
+							"name": "Chin, Thaiphum",
+							"link": "/language/cth/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						}
+					],
+					"subgroups": [
+						{
+							"name": "Central",
+							"link": "/subgroup/4076/",
+							"children_count": 12,
+							"languages": [
+								{
+									"name": "Chin, Ngawn",
+									"link": "/language/cnw/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Pangkhua",
+									"link": "/language/pkh/",
+									"country": {
+										"name": "Bangladesh",
+										"link": "/country/BD"
+									}
+								},
+								{
+									"name": "Chin, Tawr",
+									"link": "/language/tcp/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								}
+							],
+							"subgroups": [
+								{
+									"name": "Lai",
+									"link": "/subgroup/4355/",
+									"children_count": 4,
+									"languages": [
+										{
+											"name": "Chin, Bawm",
+											"link": "/language/bgr/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Chin, Bualkhaw",
+											"link": "/language/cbl/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Chin, Falam",
+											"link": "/language/cfm/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Chin, Hakha",
+											"link": "/language/cnh/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Mizo",
+									"link": "/subgroup/4356/",
+									"children_count": 5,
+									"languages": [
+										{
+											"name": "Biate",
+											"link": "/language/biu/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Hmar",
+											"link": "/language/hmr/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Hrangkhol",
+											"link": "/language/hra/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Mizo",
+											"link": "/language/lus/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Sakachep",
+											"link": "/language/sch/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": []
+								}
+							]
+						},
+						{
+							"name": "Maraic",
+							"link": "/subgroup/4077/",
+							"children_count": 5,
+							"languages": [
+								{
+									"name": "Chin, Zotung",
+									"link": "/language/czt/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Chin, Senthang",
+									"link": "/language/sez/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Chin, Zyphe",
+									"link": "/language/zyp/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								}
+							],
+							"subgroups": [
+								{
+									"name": "Mara",
+									"link": "/subgroup/4357/",
+									"children_count": 2,
+									"languages": [
+										{
+											"name": "Chin, Lautu",
+											"link": "/language/clt/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Mara",
+											"link": "/language/mrh/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": []
+								}
+							]
+						},
+						{
+							"name": "Northwestern",
+							"link": "/subgroup/4351/",
+							"children_count": 9,
+							"languages": [
+								{
+									"name": "Aimol",
+									"link": "/language/aim/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Anal",
+									"link": "/language/anm/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Chiru",
+									"link": "/language/cdf/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Naga, Kharam",
+									"link": "/language/kfw/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Kom",
+									"link": "/language/kmm/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Lamkang",
+									"link": "/language/lmk/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Naga, Chothe",
+									"link": "/language/nct/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Naga, Monsang",
+									"link": "/language/nmh/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Naga, Tarao",
+									"link": "/language/tro/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Peripheral",
+							"link": "/subgroup/4350/",
+							"children_count": 27,
+							"languages": [],
+							"subgroups": [
+								{
+									"name": "Northern",
+									"link": "/subgroup/4078/",
+									"children_count": 11,
+									"languages": [
+										{
+											"name": "Naga, Moyon",
+											"link": "/language/nmo/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Purum",
+											"link": "/language/pub/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Ralte",
+											"link": "/language/ral/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Simte",
+											"link": "/language/smt/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Sizang",
+											"link": "/subgroup/4354/",
+											"children_count": 4,
+											"languages": [
+												{
+													"name": "Chin, Siyin",
+													"link": "/language/csy/",
+													"country": {
+														"name": "Myanmar",
+														"link": "/country/MM"
+													}
+												},
+												{
+													"name": "Gangte",
+													"link": "/language/gnb/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Vaiphei",
+													"link": "/language/vap/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Zo",
+													"link": "/language/zom/",
+													"country": {
+														"name": "Myanmar",
+														"link": "/country/MM"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Thado",
+											"link": "/subgroup/4352/",
+											"children_count": 3,
+											"languages": [
+												{
+													"name": "Chin, Tedim",
+													"link": "/language/ctd/",
+													"country": {
+														"name": "Myanmar",
+														"link": "/country/MM"
+													}
+												},
+												{
+													"name": "Chin, Paite",
+													"link": "/language/pck/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Chin, Thado",
+													"link": "/language/tcz/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "Southern",
+									"link": "/subgroup/4079/",
+									"children_count": 16,
+									"languages": [
+										{
+											"name": "Chin, Eastern Khumi",
+											"link": "/language/cek/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Mro-Khimi",
+											"link": "/language/cmr/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Chin, Khumi",
+											"link": "/language/cnk/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Chin, Songlai",
+											"link": "/language/csj/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Chin, Sumtu",
+											"link": "/language/csv/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Chin, Rungtu",
+											"link": "/language/rtc/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Shendu",
+											"link": "/language/shl/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Chin, Rawngtu",
+											"link": "/language/weu/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Cho-Asho",
+											"link": "/subgroup/4358/",
+											"children_count": 8,
+											"languages": [],
+											"subgroups": [
+												{
+													"name": "Asho",
+													"link": "/subgroup/4360/",
+													"children_count": 3,
+													"languages": [
+														{
+															"name": "Chin, L\u00e4okt\u00fc",
+															"link": "/language/cey/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														},
+														{
+															"name": "Chin, Laitu",
+															"link": "/language/clj/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														},
+														{
+															"name": "Chin, Asho",
+															"link": "/language/csh/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														}
+													],
+													"subgroups": []
+												},
+												{
+													"name": "Cho",
+													"link": "/subgroup/4359/",
+													"children_count": 5,
+													"languages": [
+														{
+															"name": "Chin, Kaang",
+															"link": "/language/ckn/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														},
+														{
+															"name": "Chin, Uppu",
+															"link": "/language/cnb/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														},
+														{
+															"name": "Chin, Daai",
+															"link": "/language/dao/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														},
+														{
+															"name": "Chin, Matu",
+															"link": "/language/hlt/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														},
+														{
+															"name": "Chin, M\u00fc\u00fcn",
+															"link": "/language/mwq/",
+															"country": {
+																"name": "Myanmar",
+																"link": "/country/MM"
+															}
+														}
+													],
+													"subgroups": []
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Ngwi-Burmese",
+					"link": "/subgroup/4039/",
+					"children_count": 113,
+					"languages": [],
+					"subgroups": [
+						{
+							"name": "Burmish",
+							"link": "/subgroup/4040/",
+							"children_count": 13,
+							"languages": [],
+							"subgroups": [
+								{
+									"name": "Northern",
+									"link": "/subgroup/4041/",
+									"children_count": 6,
+									"languages": [
+										{
+											"name": "Achang",
+											"link": "/language/acn/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Zaiwa",
+											"link": "/language/atb/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Pela",
+											"link": "/language/bxd/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Hpon",
+											"link": "/language/hpo/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Lacid",
+											"link": "/language/lsi/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Lhao Vo",
+											"link": "/language/mhx/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Southern",
+									"link": "/subgroup/4042/",
+									"children_count": 7,
+									"languages": [
+										{
+											"name": "Danu",
+											"link": "/language/dnv/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Intha",
+											"link": "/language/int/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Burmese",
+											"link": "/language/mya/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Rakhine",
+											"link": "/language/rki/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Marma",
+											"link": "/language/rmz/",
+											"country": {
+												"name": "Bangladesh",
+												"link": "/country/BD"
+											}
+										},
+										{
+											"name": "Taungyo",
+											"link": "/language/tco/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Tavoyan",
+											"link": "/language/tvn/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										}
+									],
+									"subgroups": []
+								}
+							]
+						},
+						{
+							"name": "Mru",
+							"link": "/subgroup/4043/",
+							"children_count": 2,
+							"languages": [
+								{
+									"name": "Chin, Anu-Khongso",
+									"link": "/language/anl/",
+									"country": {
+										"name": "Myanmar",
+										"link": "/country/MM"
+									}
+								},
+								{
+									"name": "Mru",
+									"link": "/language/mro/",
+									"country": {
+										"name": "Bangladesh",
+										"link": "/country/BD"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Ngwi",
+							"link": "/subgroup/4044/",
+							"children_count": 98,
+							"languages": [],
+							"subgroups": [
+								{
+									"name": "Central",
+									"link": "/subgroup/4045/",
+									"children_count": 25,
+									"languages": [
+										{
+											"name": "Hlersu",
+											"link": "/language/hle/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Jinuo, Youle",
+											"link": "/language/jiu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Jinuo, Buyuan",
+											"link": "/language/jiy/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lahu Shi",
+											"link": "/language/lhi/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lahu",
+											"link": "/language/lhu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lisu",
+											"link": "/language/lis/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Kucong",
+											"link": "/language/lkc/",
+											"country": {
+												"name": "Viet Nam",
+												"link": "/country/VN"
+											}
+										},
+										{
+											"name": "Lamu",
+											"link": "/language/llh/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lipo",
+											"link": "/language/lpo/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lawu",
+											"link": "/language/lwu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nusu",
+											"link": "/language/nuf/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lolopo",
+											"link": "/language/ycl/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lalo, Dongshanba",
+											"link": "/language/yik/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Miqie",
+											"link": "/language/yiq/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lalu, Eastern",
+											"link": "/language/yit/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Limi",
+											"link": "/language/ylm/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Mili",
+											"link": "/language/ymh/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lang\u2019e",
+											"link": "/language/yne/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Sani",
+											"link": "/language/ysn/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lolopo, Southern",
+											"link": "/language/ysp/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Talu",
+											"link": "/language/yta/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Tanglang",
+											"link": "/language/ytl/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lalu, Western",
+											"link": "/language/ywl/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lalo, Central",
+											"link": "/language/ywt/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Zauzou",
+											"link": "/language/zal/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Northern",
+									"link": "/subgroup/4046/",
+									"children_count": 14,
+									"languages": [
+										{
+											"name": "Nuosu",
+											"link": "/language/iii/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Katso",
+											"link": "/language/kaf/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Samei",
+											"link": "/language/smh/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Chesu",
+											"link": "/language/ych/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Gepo",
+											"link": "/language/ygp/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nasu, Wusa",
+											"link": "/language/yig/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Awu",
+											"link": "/language/yiu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Naluo",
+											"link": "/language/ylo/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Aluo",
+											"link": "/language/yna/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Samatao",
+											"link": "/language/ysd/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Sanie",
+											"link": "/language/ysy/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Yi, Wuding-Luquan",
+											"link": "/language/ywq/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nasu, Wumeng",
+											"link": "/language/ywu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Ayizi",
+											"link": "/language/yyz/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Southeastern",
+									"link": "/subgroup/4047/",
+									"children_count": 38,
+									"languages": [
+										{
+											"name": "Alugu",
+											"link": "/language/aub/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Azha",
+											"link": "/language/aza/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Laghuu",
+											"link": "/language/lgh/",
+											"country": {
+												"name": "Viet Nam",
+												"link": "/country/VN"
+											}
+										},
+										{
+											"name": "Nisu, Eastern",
+											"link": "/language/nos/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nisu, Southern",
+											"link": "/language/nsd/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nisu, Northwestern",
+											"link": "/language/nsf/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nisu, Southwestern",
+											"link": "/language/nsv/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Mantsi",
+											"link": "/language/nty/",
+											"country": {
+												"name": "Viet Nam",
+												"link": "/country/VN"
+											}
+										},
+										{
+											"name": "Phula",
+											"link": "/language/phh/",
+											"country": {
+												"name": "Viet Nam",
+												"link": "/country/VN"
+											}
+										},
+										{
+											"name": "Bokha",
+											"link": "/language/ybk/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phowa, Hlepho",
+											"link": "/language/yhl/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Ache",
+											"link": "/language/yif/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Pholo",
+											"link": "/language/yip/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nisu, Northern",
+											"link": "/language/yiv/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Axi",
+											"link": "/language/yix/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Azhe",
+											"link": "/language/yiz/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Khlula",
+											"link": "/language/ykl/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Kua-nsi",
+											"link": "/language/ykn/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Kathu",
+											"link": "/language/ykt/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Kuamasi",
+											"link": "/language/yku/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Muji, Southern",
+											"link": "/language/ymc/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Moji",
+											"link": "/language/ymi/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Muji, Qila",
+											"link": "/language/ymq/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Muji, Northern",
+											"link": "/language/ymx/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Muzi",
+											"link": "/language/ymz/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phala",
+											"link": "/language/ypa/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phowa, Labo",
+											"link": "/language/ypb/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phola",
+											"link": "/language/ypg/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phupha",
+											"link": "/language/yph/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phuma",
+											"link": "/language/ypm/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phowa, Ani",
+											"link": "/language/ypn/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phola, Alo",
+											"link": "/language/ypo/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phupa",
+											"link": "/language/ypp/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Phuza",
+											"link": "/language/ypz/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Sonaga",
+											"link": "/language/ysg/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Nisi",
+											"link": "/language/yso/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Thopho",
+											"link": "/language/ytp/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Zokhuo",
+											"link": "/language/yzk/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Southern",
+									"link": "/subgroup/4048/",
+									"children_count": 19,
+									"languages": [
+										{
+											"name": "Akeu",
+											"link": "/language/aeu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Akha",
+											"link": "/language/ahk/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Biyo",
+											"link": "/language/byo/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "C\u00f4\u00f4ng",
+											"link": "/language/cnc/",
+											"country": {
+												"name": "Viet Nam",
+												"link": "/country/VN"
+											}
+										},
+										{
+											"name": "Enu",
+											"link": "/language/enu/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Hani",
+											"link": "/language/hni/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Honi",
+											"link": "/language/how/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Kaduo",
+											"link": "/language/ktp/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Lopi",
+											"link": "/language/lov/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Mpi",
+											"link": "/language/mpz/",
+											"country": {
+												"name": "Thailand",
+												"link": "/country/TH"
+											}
+										},
+										{
+											"name": "Phana\u2019",
+											"link": "/language/phq/",
+											"country": {
+												"name": "Laos",
+												"link": "/country/LA"
+											}
+										},
+										{
+											"name": "Sangkong",
+											"link": "/language/sgk/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Sila",
+											"link": "/language/slt/",
+											"country": {
+												"name": "Laos",
+												"link": "/country/LA"
+											}
+										},
+										{
+											"name": "Chepya",
+											"link": "/language/ycp/",
+											"country": {
+												"name": "Laos",
+												"link": "/country/LA"
+											}
+										},
+										{
+											"name": "Muda",
+											"link": "/language/ymd/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Bisoid",
+											"link": "/subgroup/4247/",
+											"children_count": 4,
+											"languages": [
+												{
+													"name": "Bisu",
+													"link": "/language/bzi/",
+													"country": {
+														"name": "Thailand",
+														"link": "/country/TH"
+													}
+												},
+												{
+													"name": "Laomian",
+													"link": "/language/lwm/",
+													"country": {
+														"name": "China",
+														"link": "/country/CN"
+													}
+												},
+												{
+													"name": "Phunoi",
+													"link": "/language/pho/",
+													"country": {
+														"name": "Laos",
+														"link": "/country/LA"
+													}
+												},
+												{
+													"name": "Pyen",
+													"link": "/language/pyy/",
+													"country": {
+														"name": "Myanmar",
+														"link": "/country/MM"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "Unclassified",
+									"link": "/subgroup/4049/",
+									"children_count": 2,
+									"languages": [
+										{
+											"name": "Laopang",
+											"link": "/language/lbg/",
+											"country": {
+												"name": "Laos",
+												"link": "/country/LA"
+											}
+										},
+										{
+											"name": "Ugong",
+											"link": "/language/ugo/",
+											"country": {
+												"name": "Thailand",
+												"link": "/country/TH"
+											}
+										}
+									],
+									"subgroups": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Northeastern Tibeto-Burman",
+					"link": "/subgroup/4051/",
+					"children_count": 25,
+					"languages": [],
+					"subgroups": [
+						{
+							"name": "Bai",
+							"link": "/subgroup/4052/",
+							"children_count": 4,
+							"languages": [
+								{
+									"name": "Bai, Central",
+									"link": "/language/bca/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Bai, Panyi",
+									"link": "/language/bfc/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Bai, Southern",
+									"link": "/language/bfs/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Bai, Lama",
+									"link": "/language/lay/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Baima",
+							"link": "/subgroup/4053/",
+							"children_count": 1,
+							"languages": [
+								{
+									"name": "Baima",
+									"link": "/language/bqh/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Ersuish",
+							"link": "/subgroup/4054/",
+							"children_count": 1,
+							"languages": [
+								{
+									"name": "Ersu",
+									"link": "/language/ers/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Naic",
+							"link": "/subgroup/4055/",
+							"children_count": 4,
+							"languages": [
+								{
+									"name": "Namuyi",
+									"link": "/language/nmy/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Narua",
+									"link": "/language/nru/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Naxi",
+									"link": "/language/nxq/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Shuhi",
+									"link": "/language/sxg/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Qiangic",
+							"link": "/subgroup/4056/",
+							"children_count": 9,
+							"languages": [
+								{
+									"name": "Qiang, Northern",
+									"link": "/language/cng/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Minyag, Eastern",
+									"link": "/language/emq/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Guiqiong",
+									"link": "/language/gqi/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Pumi, Northern",
+									"link": "/language/pmi/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Pumi, Southern",
+									"link": "/language/pmj/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Queyu",
+									"link": "/language/qvy/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Qiang, Southern",
+									"link": "/language/qxs/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Minyag, Western",
+									"link": "/language/wmg/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Zhaba",
+									"link": "/language/zhb/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "rGyalrongic",
+							"link": "/subgroup/4057/",
+							"children_count": 4,
+							"languages": [
+								{
+									"name": "Horpa",
+									"link": "/language/ero/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "sTodsde",
+									"link": "/language/jih/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Lavrung",
+									"link": "/language/jiq/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Jiarong",
+									"link": "/language/jya/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Tujia",
+							"link": "/subgroup/4058/",
+							"children_count": 2,
+							"languages": [
+								{
+									"name": "Tujia, Northern",
+									"link": "/language/tji/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								},
+								{
+									"name": "Tujia, Southern",
+									"link": "/language/tjs/",
+									"country": {
+										"name": "China",
+										"link": "/country/CN"
+									}
+								}
+							],
+							"subgroups": []
+						}
+					]
+				},
+				{
+					"name": "Sal",
+					"link": "/subgroup/4059/",
+					"children_count": 38,
+					"languages": [],
+					"subgroups": [
+						{
+							"name": "Boro-Garo",
+							"link": "/subgroup/4062/",
+							"children_count": 28,
+							"languages": [
+								{
+									"name": "Deori",
+									"link": "/language/der/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Garo",
+									"link": "/language/grt/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Megam",
+									"link": "/language/mef/",
+									"country": {
+										"name": "Bangladesh",
+										"link": "/country/BD"
+									}
+								},
+								{
+									"name": "Tippera",
+									"link": "/language/tpe/",
+									"country": {
+										"name": "Bangladesh",
+										"link": "/country/BD"
+									}
+								}
+							],
+							"subgroups": [
+								{
+									"name": "Boro-Tiwa",
+									"link": "/subgroup/4063/",
+									"children_count": 3,
+									"languages": [
+										{
+											"name": "Tiwa",
+											"link": "/language/lax/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Boro",
+											"link": "/subgroup/4345/",
+											"children_count": 2,
+											"languages": [
+												{
+													"name": "Boro",
+													"link": "/language/brx/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kachari",
+													"link": "/language/xac/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "Dimasa-Kokborok",
+									"link": "/subgroup/4346/",
+									"children_count": 4,
+									"languages": [
+										{
+											"name": "Dimasa",
+											"link": "/language/dis/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Kok Borok",
+											"link": "/subgroup/4349/",
+											"children_count": 3,
+											"languages": [
+												{
+													"name": "Riang",
+													"link": "/language/ria/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kok Borok",
+													"link": "/language/trp/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Usoi",
+													"link": "/language/usi/",
+													"country": {
+														"name": "Bangladesh",
+														"link": "/country/BD"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "Koch",
+									"link": "/subgroup/4347/",
+									"children_count": 4,
+									"languages": [
+										{
+											"name": "Atong",
+											"link": "/language/aot/",
+											"country": {
+												"name": "Bangladesh",
+												"link": "/country/BD"
+											}
+										},
+										{
+											"name": "Koch",
+											"link": "/language/kdq/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Rabha",
+											"link": "/language/rah/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Ruga",
+											"link": "/language/ruh/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Northern Naga",
+									"link": "/subgroup/4348/",
+									"children_count": 13,
+									"languages": [
+										{
+											"name": "Naga, Khiamniungan",
+											"link": "/language/kix/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Lainong",
+											"link": "/language/lzn/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Naga, Chang",
+											"link": "/language/nbc/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Konyak",
+											"link": "/language/nbe/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Nocte",
+											"link": "/language/njb/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Lao",
+											"link": "/language/nlq/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Naga, Wancho",
+											"link": "/language/nnp/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Ponyo-Gongwang",
+											"link": "/language/npg/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Naga, Phom",
+											"link": "/language/nph/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Chen-Kayu",
+											"link": "/language/nqq/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Naga, Tangshang",
+											"link": "/language/nst/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Naga, Tutsa",
+											"link": "/language/tvt/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Naga, Paungnyuan",
+											"link": "/language/umn/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										}
+									],
+									"subgroups": []
+								}
+							]
+						},
+						{
+							"name": "Dhimalish",
+							"link": "/subgroup/4067/",
+							"children_count": 2,
+							"languages": [
+								{
+									"name": "Dhimal",
+									"link": "/language/dhi/",
+									"country": {
+										"name": "Nepal",
+										"link": "/country/NP"
+									}
+								},
+								{
+									"name": "Toto",
+									"link": "/language/txo/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								}
+							],
+							"subgroups": []
+						},
+						{
+							"name": "Jingppaw-Asakia",
+							"link": "/subgroup/4068/",
+							"children_count": 7,
+							"languages": [],
+							"subgroups": [
+								{
+									"name": "Asakian",
+									"link": "/subgroup/4070/",
+									"children_count": 3,
+									"languages": [
+										{
+											"name": "Chak",
+											"link": "/language/ckh/",
+											"country": {
+												"name": "Bangladesh",
+												"link": "/country/BD"
+											}
+										},
+										{
+											"name": "Kadu",
+											"link": "/language/zkd/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Kanan",
+											"link": "/language/zkn/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										}
+									],
+									"subgroups": []
+								},
+								{
+									"name": "Jingphaw",
+									"link": "/subgroup/4069/",
+									"children_count": 4,
+									"languages": [
+										{
+											"name": "Jingpho",
+											"link": "/language/kac/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Singpho",
+											"link": "/language/sgp/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										},
+										{
+											"name": "Taman",
+											"link": "/language/tcl/",
+											"country": {
+												"name": "Myanmar",
+												"link": "/country/MM"
+											}
+										},
+										{
+											"name": "Turung",
+											"link": "/language/try/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Tangkhulic",
+					"link": "/subgroup/4081/",
+					"children_count": 4,
+					"languages": [
+						{
+							"name": "Naga, Khoibu",
+							"link": "/language/nkb/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Tangkhul",
+							"link": "/language/nmf/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Maring",
+							"link": "/language/nng/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Tangkhul",
+							"link": "/language/ntx/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						}
+					],
+					"subgroups": []
+				},
+				{
+					"name": "Unclassified",
+					"link": "/subgroup/810/",
+					"children_count": 11,
+					"languages": [
+						{
+							"name": "Darlong",
+							"link": "/language/dln/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Koro",
+							"link": "/language/jkr/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Makuri",
+							"link": "/language/jmn/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						},
+						{
+							"name": "Khamba",
+							"link": "/language/kbg/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Long Phuri",
+							"link": "/language/lpn/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						},
+						{
+							"name": "Naga, Inpui",
+							"link": "/language/nkf/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Puimei",
+							"link": "/language/npu/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Akyaung Ari",
+							"link": "/language/nqy/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						},
+						{
+							"name": "Naga, Kokak",
+							"link": "/language/nxk/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						},
+						{
+							"name": "Naga, Jejara",
+							"link": "/language/pzn/",
+							"country": {
+								"name": "Myanmar",
+								"link": "/country/MM"
+							}
+						},
+						{
+							"name": "Ranglong",
+							"link": "/language/rnl/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						}
+					],
+					"subgroups": []
+				},
+				{
+					"name": "Western Naga",
+					"link": "/subgroup/4083/",
+					"children_count": 7,
+					"languages": [
+						{
+							"name": "Naga, Rongmei",
+							"link": "/language/nbu/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Liangmai",
+							"link": "/language/njn/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Koireng",
+							"link": "/language/nkd/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Thangal",
+							"link": "/language/nki/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Maram",
+							"link": "/language/nma/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Mzieme",
+							"link": "/language/nme/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						},
+						{
+							"name": "Naga, Zeme",
+							"link": "/language/nzm/",
+							"country": {
+								"name": "India",
+								"link": "/country/IN"
+							}
+						}
+					],
+					"subgroups": []
+				},
+				{
+					"name": "Western Tibeto-Burman",
+					"link": "/subgroup/4084/",
+					"children_count": 130,
+					"languages": [],
+					"subgroups": [
+						{
+							"name": "Bodish",
+							"link": "/subgroup/4085/",
+							"children_count": 82,
+							"languages": [
+								{
+									"name": "Gongduk",
+									"link": "/language/goe/",
+									"country": {
+										"name": "Bhutan",
+										"link": "/country/BT"
+									}
+								},
+								{
+									"name": "Monpa, Kalaktang",
+									"link": "/language/kkf/",
+									"country": {
+										"name": "India",
+										"link": "/country/IN"
+									}
+								},
+								{
+									"name": "Lhokpu",
+									"link": "/language/lhp/",
+									"country": {
+										"name": "Bhutan",
+										"link": "/country/BT"
+									}
+								},
+								{
+									"name": "Olekha",
+									"link": "/language/ole/",
+									"country": {
+										"name": "Bhutan",
+										"link": "/country/BT"
+									}
+								},
+								{
+									"name": "Tshangla",
+									"link": "/language/tsj/",
+									"country": {
+										"name": "Bhutan",
+										"link": "/country/BT"
+									}
+								}
+							],
+							"subgroups": [
+								{
+									"name": "Central Bodish",
+									"link": "/subgroup/4086/",
+									"children_count": 38,
+									"languages": [
+										{
+											"name": "Choni",
+											"link": "/language/cda/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										},
+										{
+											"name": "Tseku",
+											"link": "/language/tsk/",
+											"country": {
+												"name": "China",
+												"link": "/country/CN"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Amdo",
+											"link": "/subgroup/4087/",
+											"children_count": 1,
+											"languages": [
+												{
+													"name": "Tibetan, Amdo",
+													"link": "/language/adx/",
+													"country": {
+														"name": "China",
+														"link": "/country/CN"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Central",
+											"link": "/subgroup/4089/",
+											"children_count": 27,
+											"languages": [
+												{
+													"name": "Tibetan, Central",
+													"link": "/language/bod/",
+													"country": {
+														"name": "China",
+														"link": "/country/CN"
+													}
+												}
+											],
+											"subgroups": [
+												{
+													"name": "gTsang",
+													"link": "/subgroup/4091/",
+													"children_count": 14,
+													"languages": [
+														{
+															"name": "Dolpo",
+															"link": "/language/dre/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Gyalsumdo",
+															"link": "/language/gyo/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Humla",
+															"link": "/language/hut/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Jirel",
+															"link": "/language/jul/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Kyerung",
+															"link": "/language/kgy/",
+															"country": {
+																"name": "China",
+																"link": "/country/CN"
+															}
+														},
+														{
+															"name": "Nubri",
+															"link": "/language/kte/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Lhomi",
+															"link": "/language/lhm/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Lhowa",
+															"link": "/language/loy/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Mugom-Karmarong",
+															"link": "/language/muk/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Hyolmo",
+															"link": "/language/scp/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Syuba",
+															"link": "/language/syw/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Tichurong",
+															"link": "/language/tcn/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Tsum",
+															"link": "/language/ttz/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Sherpa",
+															"link": "/language/xsr/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														}
+													],
+													"subgroups": []
+												},
+												{
+													"name": "Southern",
+													"link": "/subgroup/4093/",
+													"children_count": 9,
+													"languages": [
+														{
+															"name": "Brokkat",
+															"link": "/language/bro/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Chocangacakha",
+															"link": "/language/cgk/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Dzongkha",
+															"link": "/language/dzo/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Groma",
+															"link": "/language/gro/",
+															"country": {
+																"name": "China",
+																"link": "/country/CN"
+															}
+														},
+														{
+															"name": "Lakha",
+															"link": "/language/lkh/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Lunanakha",
+															"link": "/language/luk/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Layakha",
+															"link": "/language/lya/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Brokpake",
+															"link": "/language/sgt/",
+															"country": {
+																"name": "Bhutan",
+																"link": "/country/BT"
+															}
+														},
+														{
+															"name": "Sikkimese",
+															"link": "/language/sip/",
+															"country": {
+																"name": "India",
+																"link": "/country/IN"
+															}
+														}
+													],
+													"subgroups": []
+												},
+												{
+													"name": "Western",
+													"link": "/subgroup/4094/",
+													"children_count": 3,
+													"languages": [
+														{
+															"name": "Jad",
+															"link": "/language/jda/",
+															"country": {
+																"name": "India",
+																"link": "/country/IN"
+															}
+														},
+														{
+															"name": "Stod Bhoti",
+															"link": "/language/sbu/",
+															"country": {
+																"name": "India",
+																"link": "/country/IN"
+															}
+														},
+														{
+															"name": "Spiti Bhoti",
+															"link": "/language/spt/",
+															"country": {
+																"name": "India",
+																"link": "/country/IN"
+															}
+														}
+													],
+													"subgroups": []
+												}
+											]
+										},
+										{
+											"name": "Khams",
+											"link": "/subgroup/4095/",
+											"children_count": 1,
+											"languages": [
+												{
+													"name": "Tibetan, Khams",
+													"link": "/language/khg/",
+													"country": {
+														"name": "China",
+														"link": "/country/CN"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Unclassified",
+											"link": "/subgroup/4096/",
+											"children_count": 2,
+											"languages": [
+												{
+													"name": "Naaba",
+													"link": "/language/nao/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Walungge",
+													"link": "/language/ola/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Western",
+											"link": "/subgroup/4097/",
+											"children_count": 5,
+											"languages": [
+												{
+													"name": "Balti",
+													"link": "/language/bft/",
+													"country": {
+														"name": "Pakistan",
+														"link": "/country/PK"
+													}
+												},
+												{
+													"name": "Changthang",
+													"link": "/language/cna/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Ladakhi",
+													"link": "/language/lbj/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Purig",
+													"link": "/language/prx/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Zangskari",
+													"link": "/language/zau/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "East Bodish",
+									"link": "/subgroup/4098/",
+									"children_count": 9,
+									"languages": [
+										{
+											"name": "Dakpakha",
+											"link": "/language/dka/",
+											"country": {
+												"name": "Bhutan",
+												"link": "/country/BT"
+											}
+										},
+										{
+											"name": "Monpa, Tawang",
+											"link": "/language/twm/",
+											"country": {
+												"name": "India",
+												"link": "/country/IN"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Bumthang",
+											"link": "/subgroup/4099/",
+											"children_count": 7,
+											"languages": [
+												{
+													"name": "Dzalakha",
+													"link": "/language/dzl/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												},
+												{
+													"name": "Bumthangkha",
+													"link": "/language/kjz/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												},
+												{
+													"name": "Nyenkha",
+													"link": "/language/neh/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												},
+												{
+													"name": "Nupbikha",
+													"link": "/language/npb/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												},
+												{
+													"name": "Chalikha",
+													"link": "/language/tgf/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												},
+												{
+													"name": "Khengkha",
+													"link": "/language/xkf/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												},
+												{
+													"name": "Kurtokha",
+													"link": "/language/xkz/",
+													"country": {
+														"name": "Bhutan",
+														"link": "/country/BT"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "West Bodish",
+									"link": "/subgroup/4100/",
+									"children_count": 14,
+									"languages": [
+										{
+											"name": "Dura",
+											"link": "/language/drq/",
+											"country": {
+												"name": "Nepal",
+												"link": "/country/NP"
+											}
+										},
+										{
+											"name": "Kaike",
+											"link": "/language/kzq/",
+											"country": {
+												"name": "Nepal",
+												"link": "/country/NP"
+											}
+										}
+									],
+									"subgroups": [
+										{
+											"name": "Ghale",
+											"link": "/subgroup/4101/",
+											"children_count": 3,
+											"languages": [
+												{
+													"name": "Ghale, Southern",
+													"link": "/language/ghe/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Ghale, Northern",
+													"link": "/language/ghh/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Kuke",
+													"link": "/language/ght/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Gurung-Tamang",
+											"link": "/subgroup/4102/",
+											"children_count": 9,
+											"languages": [],
+											"subgroups": [
+												{
+													"name": "Gurungic",
+													"link": "/subgroup/4103/",
+													"children_count": 6,
+													"languages": [
+														{
+															"name": "Chantyal",
+															"link": "/language/chx/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Gurung",
+															"link": "/language/gvr/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Nyeshangte",
+															"link": "/language/nmm/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Nar Phu",
+															"link": "/language/npa/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Seke",
+															"link": "/language/skj/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Thakali",
+															"link": "/language/ths/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														}
+													],
+													"subgroups": []
+												},
+												{
+													"name": "Tamang",
+													"link": "/subgroup/4104/",
+													"children_count": 3,
+													"languages": [
+														{
+															"name": "Tamang, Eastern",
+															"link": "/language/taj/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Tamang, Western",
+															"link": "/language/tdg/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Tamang, Eastern Gorkha",
+															"link": "/language/tge/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														}
+													],
+													"subgroups": []
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "West Himalayish",
+									"link": "/subgroup/4105/",
+									"children_count": 16,
+									"languages": [],
+									"subgroups": [
+										{
+											"name": "Almora",
+											"link": "/subgroup/4106/",
+											"children_count": 4,
+											"languages": [
+												{
+													"name": "Byangsi",
+													"link": "/language/bee/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Chaudangsi",
+													"link": "/language/cdn/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Darmiya",
+													"link": "/language/drd/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Rangkas",
+													"link": "/language/rgk/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Kinauri",
+											"link": "/subgroup/4107/",
+											"children_count": 12,
+											"languages": [
+												{
+													"name": "Gahri",
+													"link": "/language/bfu/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kinnauri, Chitkuli",
+													"link": "/language/cik/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Jangshung",
+													"link": "/language/jna/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kinnauri",
+													"link": "/language/kfk/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Pattani",
+													"link": "/language/lae/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Tinani",
+													"link": "/language/lbf/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kinnauri, Bhoti",
+													"link": "/language/nes/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Rongpo",
+													"link": "/language/rnp/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Shumcho",
+													"link": "/language/scu/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Sunam",
+													"link": "/language/ssk/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kinnauri, Chhoyul",
+													"link": "/language/tpq/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Kanashi",
+													"link": "/language/xns/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Himalayan",
+							"link": "/subgroup/4108/",
+							"children_count": 48,
+							"languages": [],
+							"subgroups": [
+								{
+									"name": "Central Himalayan",
+									"link": "/subgroup/4109/",
+									"children_count": 15,
+									"languages": [],
+									"subgroups": [
+										{
+											"name": "Chepang-Bhujel",
+											"link": "/subgroup/4110/",
+											"children_count": 2,
+											"languages": [
+												{
+													"name": "Bhujel",
+													"link": "/language/byh/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Chepang",
+													"link": "/language/cdm/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Kham-Magar",
+											"link": "/subgroup/4111/",
+											"children_count": 6,
+											"languages": [],
+											"subgroups": [
+												{
+													"name": "Kham",
+													"link": "/subgroup/4112/",
+													"children_count": 4,
+													"languages": [
+														{
+															"name": "Kham, Gamal",
+															"link": "/language/kgj/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Kham, Eastern Parbate",
+															"link": "/language/kif/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Kham, Sheshi",
+															"link": "/language/kip/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Kham, Western Parbate",
+															"link": "/language/kjl/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														}
+													],
+													"subgroups": []
+												},
+												{
+													"name": "Magar",
+													"link": "/subgroup/4113/",
+													"children_count": 2,
+													"languages": [
+														{
+															"name": "Magar, Eastern",
+															"link": "/language/mgp/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														},
+														{
+															"name": "Magar, Western",
+															"link": "/language/mrd/",
+															"country": {
+																"name": "Nepal",
+																"link": "/country/NP"
+															}
+														}
+													],
+													"subgroups": []
+												}
+											]
+										},
+										{
+											"name": "Newar",
+											"link": "/subgroup/4114/",
+											"children_count": 2,
+											"languages": [
+												{
+													"name": "Newar",
+													"link": "/language/new/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Pahari",
+													"link": "/language/phj/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Raute-Raji",
+											"link": "/subgroup/4120/",
+											"children_count": 3,
+											"languages": [
+												{
+													"name": "Rawat",
+													"link": "/language/jnl/",
+													"country": {
+														"name": "India",
+														"link": "/country/IN"
+													}
+												},
+												{
+													"name": "Raute",
+													"link": "/language/rau/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Raji",
+													"link": "/language/rji/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Thangmi-Baraamu",
+											"link": "/subgroup/4116/",
+											"children_count": 2,
+											"languages": [
+												{
+													"name": "Baram",
+													"link": "/language/brd/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Thangmi",
+													"link": "/language/thf/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								},
+								{
+									"name": "Kiranti",
+									"link": "/subgroup/4117/",
+									"children_count": 33,
+									"languages": [],
+									"subgroups": [
+										{
+											"name": "Eastern",
+											"link": "/subgroup/4118/",
+											"children_count": 23,
+											"languages": [
+												{
+													"name": "Athpariya",
+													"link": "/language/aph/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Bantawa",
+													"link": "/language/bap/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Belhariya",
+													"link": "/language/byw/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Chhintang",
+													"link": "/language/ctn/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Chhiling",
+													"link": "/language/cur/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Chukwa",
+													"link": "/language/cuw/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Mewahang, Eastern",
+													"link": "/language/emg/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Kulung",
+													"link": "/language/kle/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Lohorung",
+													"link": "/language/lbr/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Limbu",
+													"link": "/language/lif/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Mugali",
+													"link": "/language/lmh/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Yamphu, Southern",
+													"link": "/language/lrr/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Yakkha, Chhathare",
+													"link": "/language/luu/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Nachiring",
+													"link": "/language/ncd/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Phangduwali",
+													"link": "/language/phw/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Puma",
+													"link": "/language/pum/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Dungmali",
+													"link": "/language/raa/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Chamling",
+													"link": "/language/rab/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Mewahang, Western",
+													"link": "/language/raf/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Saam",
+													"link": "/language/raq/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Sampang",
+													"link": "/language/rav/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Yakkha",
+													"link": "/language/ybh/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Yamphu",
+													"link": "/language/ybi/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										},
+										{
+											"name": "Western",
+											"link": "/subgroup/4119/",
+											"children_count": 10,
+											"languages": [
+												{
+													"name": "Bahing",
+													"link": "/language/bhj/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Dumi",
+													"link": "/language/dus/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Jerung",
+													"link": "/language/jee/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Koyee",
+													"link": "/language/kkt/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Khaling",
+													"link": "/language/klr/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Sunwar",
+													"link": "/language/suz/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Thulung",
+													"link": "/language/tdh/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Tilung",
+													"link": "/language/tij/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Wayu",
+													"link": "/language/vay/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												},
+												{
+													"name": "Wambule",
+													"link": "/language/wme/",
+													"country": {
+														"name": "Nepal",
+														"link": "/country/NP"
+													}
+												}
+											],
+											"subgroups": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

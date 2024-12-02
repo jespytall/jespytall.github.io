@@ -9,26 +9,31 @@ permalink: /
 
 
 # Welcome to my Learning Celebration Site!
-This site contains my learning celebrations for Dr. Rushforth's Fall 2024 Introduction to Liguistics class at UTSA. Have a look around!
+Hello, my name is Richard Powell and I am a senior (class of 2025) studying Computer Science and Linguistics at the University of Texas at San Antonio. This site contains my learning celebrations for Dr. Rushforth's Fall 2024 Introduction to Liguistics class. Have a look around! 
 
-# Learning Celebration 1
+To return to this page, click "Learning Celebrations" at the top of the page or "Return to Homepage" at the bottom.
 
-### Panel 1: Animal Communication & Perscriptive vs. Descriptive Grammar
-* [Animal Communication Analysis](/panel1/animal_communication)
-* [Perscriptive vs. Descriptive Grammar Limericks](/panel1/perscriptive_descriptive)
+# Learning Celebration 3
 
+### Panel 1: Historical Linguistics
+* [Beowulf Reading and Analysis](/cel3/panel1/beowulf)
+* [Middle English Reading and Analysis](/cel3/panel1/middle_english)
+* [Proto-Indo-European Cognates](/cel3/panel1/cognates)
+* [Grimm's Law](/cel3/panel1/grimms_law)
+* [Sino-Tibetan Language Family](/cel3/panel1/sino-tibetan)
+* [Verner's Law](/cel3/panel1/verners_law)
+* [Swadesh Word Comparison](/cel3/panel1/swadesh)
 
-### Panel 2: Phonetics Activity: Adopt a New Language
-My adopted language is: [Cantonese](/panel2/cantonese)!
+### Panel 2: Sociolinguistics
+* [Dialects of English Analysis ](/cel3/panel2/dialects)
+* [Creole Language Exploration](/cel3/panel2/creole)
+* [Talking Black in America](/cel3/panel2/talking_black)
 
-
-### Panel 3: Phonology
-* [Phones vs. Phonemes](/panel3/phone_phoneme)
-* [Allophone Showcase](/panel3/allophones)
-* [Natural Classes Connections Puzzle](/panel3/natural_classes)
-* [Learning a Phonological Process with ChatGPT](/panel3/chatgpt)
+### Panel 3: Passion Project
+* [Passion Project Update](/cel3/panel3/passion_project)
 
 <br>
+
 
 # Learning Celebration 2
 
@@ -40,7 +45,7 @@ My adopted language is: [Cantonese](/panel2/cantonese)!
 * [Morphological Trees](/cel2/panel1/tree_morph)
 
 ### Panel 2: Syntax
-* [Teaching Generative Grammar](/cel2/panel2/generative)
+  [comment]: # [Teaching Generative Grammar](/cel2/panel2/generative)
 * [Verb Subcategorization](/cel2/panel2/verbs)
 * [Tree Diagrams and Syntax (Ambiguity Analysis)](/cel2/panel2/tree_syntax)
 * [Thematic Roles](/cel2/panel2/thematic_roles)
@@ -51,6 +56,24 @@ My adopted language is: [Cantonese](/panel2/cantonese)!
 * [Denotation vs. Connotation](/cel2/panel3/denotation_connotation)
 * [Ambiguity in Language](/cel2/panel3/ambiguity)
 * [Semantic Change](/cel2/panel3/semantic_change)
+
+<br>
+
+
+# Learning Celebration 1
+
+### Panel 1: Animal Communication & Perscriptive vs. Descriptive Grammar
+* [Animal Communication Analysis](/panel1/animal_communication)
+* [Perscriptive vs. Descriptive Grammar Limericks](/panel1/perscriptive_descriptive)
+
+### Panel 2: Phonetics Activity: Adopt a New Language
+My adopted language is: [Cantonese](/panel2/cantonese)!
+
+### Panel 3: Phonology
+* [Phones vs. Phonemes](/panel3/phone_phoneme)
+* [Allophone Showcase](/panel3/allophones)
+* [Natural Classes Connections Puzzle](/panel3/natural_classes)
+* [Learning a Phonological Process with ChatGPT](/panel3/chatgpt)
 
 
 
