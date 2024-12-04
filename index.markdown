@@ -13,6 +13,14 @@ Hello, my name is Richard Powell and I am a senior (class of 2025) studying Comp
 
 To return to this page, click "Learning Celebrations" at the top of the page or "Return to Homepage" at the bottom.
 
+# Passion Project: Hyponym/Hypernym Visualization
+
+Using the Open English Wordnet, I have created a dynamic tree showing hyponym/hypernym relationships in words.
+
+### [Visualization](/project/tree)
+
+<br>
+
 # Learning Celebration 3
 
 ### Panel 1: Historical Linguistics
